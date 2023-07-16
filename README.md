@@ -1,8 +1,20 @@
 **Thehodophile - Your Wanderlust Journey Begins**
+![logo](https://github.com/sahithisingamaneni/TheHodophilist/assets/95176402/ed7cef90-d6f0-4eb0-8901-990077039106)
 
-![Thehodophile Logo](https://example.com/thehodophile-logo.png)
+
 
 Thehodophile is an enchanting web application for passionate travelers, developed using HTML, CSS, and JavaScript. Embark on a captivating journey of discovery as you explore breathtaking destinations, plan personalized itineraries, and access exclusive travel deals. With a user-friendly contact form and JavaScript-based mail validation, Thehodophile ensures a seamless travel experience. Developed with love using Visual Studio Code.
+## Home page
+![home](https://github.com/sahithisingamaneni/TheHodophilist/assets/95176402/36fa3a92-8bdf-48ef-97e5-6930088c4a60)
+## About page
+![about](https://github.com/sahithisingamaneni/TheHodophilist/assets/95176402/fde63fb4-fa87-44e6-87f0-35f2d9b4beec)
+![about1](https://github.com/sahithisingamaneni/TheHodophilist/assets/95176402/0bc9f4c3-3808-4611-9f2c-11b559cc0fd6)
+## Services page
+![services](https://github.com/sahithisingamaneni/TheHodophilist/assets/95176402/83bfea8c-88ca-4b4e-87ba-604c7c32aca8)
+## Contact page
+![contact](https://github.com/sahithisingamaneni/TheHodophilist/assets/95176402/f4b2c946-4b48-4ce3-9f2a-60bde5ca01d6)
+
+
 
 ## Key Features
 
